@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9bf38fcdbb887b6a6de5df14a1e0192a\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\937584fb11b52575989ab48fa65dfb16\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b800b01c725441d4d9c4674913e15a3f\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\501c181e5655ebfe5e77f77e95312e61\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1c66f032585a722b64f21cd63c1d53f3\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1c97977efc3d5536922db7c4c2d3dbfa\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a90f9e539dd877ccd125cdee646e652e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dd71738cb562643af8129a7e2b02d733\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a75b7b77cb6f9112a37ef4a36548d89d\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c64ca2d09f07e34425370eea6625bbf\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7026483068c62b20a31fadace8041ea1\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dc7a640de23110856d6913099a78b7c9\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b8eb15f2a06d8223302351c436a201b1\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7bf0d4c42701986b847558e04fc1f633\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8915dfa00dac32ed6c2b336154a2bc11\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7376b6e62a84c83b1a7167ab88bd8486\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\84d9f4c8a44dfb26b602339987a6ddbb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\72899e2b8d96f03c6dc9d38389775795\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8381d0a86d45a9afd60ba34142102483\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e774ceed7cb17676be174caa80b7bf5c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e30b45bbe0cd36dd214baab8df78ad7e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0ea33a95c25d62106756d2ee4afb24ff\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:5:5-39:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b800b01c725441d4d9c4674913e15a3f\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b800b01c725441d4d9c4674913e15a3f\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b8eb15f2a06d8223302351c436a201b1\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b8eb15f2a06d8223302351c436a201b1\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8915dfa00dac32ed6c2b336154a2bc11\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8915dfa00dac32ed6c2b336154a2bc11\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b8eb15f2a06d8223302351c436a201b1\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.clonequizqs.View.HomeActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:12:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.clonequizqs.View.CategoryActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:19:19-56
+activity#com.example.clonequizqs.View.GameNormalActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:20:19-58
+activity#com.example.clonequizqs.View.GameInfiniteActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:21:19-60
+activity#com.example.clonequizqs.View.MusicNormalActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:22:19-59
+activity#com.example.clonequizqs.View.MusicInfiniteActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:23:9-64
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:23:19-61
+activity#com.example.clonequizqs.View.GeneralNormalActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:24:9-64
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:24:19-61
+activity#com.example.clonequizqs.View.GeneralInfiniteActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:25:9-66
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:25:19-63
+activity#com.example.clonequizqs.View.EnglishNormalActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:26:19-61
+activity#com.example.clonequizqs.View.SportNormalActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:27:9-62
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:27:19-59
+activity#com.example.clonequizqs.View.SportInfiniteActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:28:9-64
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:28:19-61
+activity#com.example.clonequizqs.View.ComputerNormalActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:29:19-62
+activity#com.example.clonequizqs.View.ComputerInfiniteActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:30:9-67
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:30:19-64
+activity#com.example.clonequizqs.View.AboutMeActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:31:9-58
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:31:19-55
+activity#com.example.clonequizqs.View.GameWonActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:32:9-58
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:32:19-55
+activity#com.example.clonequizqs.View.EnglishPuzzleActivity
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:33:19-61
+service#com.example.clonequizqs.ThemeSongService
+ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:35:9-38:51
+	android:enabled
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:37:17-39
+	android:exported
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:38:17-40
+	android:name
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml:36:17-49
+uses-sdk
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9bf38fcdbb887b6a6de5df14a1e0192a\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\9bf38fcdbb887b6a6de5df14a1e0192a\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\937584fb11b52575989ab48fa65dfb16\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\937584fb11b52575989ab48fa65dfb16\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b800b01c725441d4d9c4674913e15a3f\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b800b01c725441d4d9c4674913e15a3f\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\501c181e5655ebfe5e77f77e95312e61\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\501c181e5655ebfe5e77f77e95312e61\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1c66f032585a722b64f21cd63c1d53f3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1c66f032585a722b64f21cd63c1d53f3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1c97977efc3d5536922db7c4c2d3dbfa\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\1c97977efc3d5536922db7c4c2d3dbfa\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a90f9e539dd877ccd125cdee646e652e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a90f9e539dd877ccd125cdee646e652e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dd71738cb562643af8129a7e2b02d733\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dd71738cb562643af8129a7e2b02d733\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a75b7b77cb6f9112a37ef4a36548d89d\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a75b7b77cb6f9112a37ef4a36548d89d\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c64ca2d09f07e34425370eea6625bbf\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7c64ca2d09f07e34425370eea6625bbf\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7026483068c62b20a31fadace8041ea1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7026483068c62b20a31fadace8041ea1\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dc7a640de23110856d6913099a78b7c9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\dc7a640de23110856d6913099a78b7c9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b8eb15f2a06d8223302351c436a201b1\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b8eb15f2a06d8223302351c436a201b1\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7bf0d4c42701986b847558e04fc1f633\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7bf0d4c42701986b847558e04fc1f633\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8915dfa00dac32ed6c2b336154a2bc11\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8915dfa00dac32ed6c2b336154a2bc11\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7376b6e62a84c83b1a7167ab88bd8486\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7376b6e62a84c83b1a7167ab88bd8486\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\84d9f4c8a44dfb26b602339987a6ddbb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\84d9f4c8a44dfb26b602339987a6ddbb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\72899e2b8d96f03c6dc9d38389775795\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\72899e2b8d96f03c6dc9d38389775795\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8381d0a86d45a9afd60ba34142102483\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8381d0a86d45a9afd60ba34142102483\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e774ceed7cb17676be174caa80b7bf5c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e774ceed7cb17676be174caa80b7bf5c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e30b45bbe0cd36dd214baab8df78ad7e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\e30b45bbe0cd36dd214baab8df78ad7e\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0ea33a95c25d62106756d2ee4afb24ff\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0ea33a95c25d62106756d2ee4afb24ff\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\CloneQuizQs\app\src\main\AndroidManifest.xml

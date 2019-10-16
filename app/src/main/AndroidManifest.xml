@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.clonequizqs" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".View.HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".View.CategoryActivity" />
+        <activity android:name=".View.GameNormalActivity" />
+        <activity android:name=".View.GameInfiniteActivity" />
+        <activity android:name=".View.MusicNormalActivity" />
+        <activity android:name=".View.MusicInfiniteActivity" />
+        <activity android:name=".View.GeneralNormalActivity" />
+        <activity android:name=".View.GeneralInfiniteActivity" />
+        <activity android:name=".View.EnglishNormalActivity" />
+        <activity android:name=".View.SportNormalActivity" />
+        <activity android:name=".View.SportInfiniteActivity" />
+        <activity android:name=".View.ComputerNormalActivity" />
+        <activity android:name=".View.ComputerInfiniteActivity" />
+        <activity android:name=".View.AboutMeActivity" />
+        <activity android:name=".View.GameWonActivity" />
+        <activity android:name=".View.EnglishPuzzleActivity" />
+
+        <service
+                android:name=".ThemeSongService"
+                android:enabled="true"
+                android:exported="true"></service>
+    </application>
+
+</manifest>
